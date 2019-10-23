@@ -7,11 +7,11 @@ when the bill for a group meal inevitably ends up being split evenly,
 leaving inexpensive-meal-orderers like her to cover for the 
 expensive-meal-orderers (i.e. Tom).
 
-This is definitely a real lyfe college kid problem. My roommate 
-once spent like 20 minutes trying to divide up tax and tip proportionally 
+This is definitely a real life college kid problem. My roommate 
+once spent 20 minutes trying to divide up tax and tip proportionally 
 after a 12-person birthday party dinner.
 
-Now we just have to open this program, type in everyone's meal cost, and voila !
+But now we just have to open this program, type in everyone's meal cost, and voila !
 */
 
 
